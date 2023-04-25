@@ -1,6 +1,6 @@
 # 💫 About Me:
  
-<img align="right" alt="GIF" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif"  />
+<img align="right" alt="GIF" height="90" width="90" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif"  />
  
 🏢 I’m currently working at [HashedIn by Deloitte](https://hashedin.com/) </br> 🔭 I’m currently working on my Portfolio website <br>👯 I’m looking to collaborate on any thing written in JavaScript<br>🤝 I’m looking for help with machine learning things<br>🌱 I’m currently learning a little bit of AI and ML<br>💬 Ask me about ReactJS, Angular & NodeJS<br>⚡ Fun fact, I dream of becoming Iron Man! 🚀🚀🚀🚀
 
