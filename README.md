@@ -12,12 +12,11 @@
 
 # 📊 GitHub Stats:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nanak360&theme=nord&hide_border=true&include_all_commits=false&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=nanak360&theme=nord&hide_border=true&include_all_commits=false&count_private=true" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nanak360&theme=nord&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanak360&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanak360&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nanak360&theme=nord&hide_border=true" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nanak360&theme=nord&column=-1&no-frame=true&no-bg=true&margin-w=4)
