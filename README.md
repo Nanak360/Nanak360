@@ -23,7 +23,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=nanak360&theme=nord&column=-1&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=NBandyopadhyay)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=NBandyopadhyay)](https://twitter.com/NBandyopadhyay)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nanak360&limit=5&theme=nord&combine_all_yearly_contributions=true)
