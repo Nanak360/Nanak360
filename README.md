@@ -38,7 +38,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=nanak360&theme=nord&hide_border=true&include_all_commits=false&count_private=true" />
 
@@ -47,7 +47,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanak360&theme=nord&hide_border=true&starting_year=2010" />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nanak360&theme=nord&column=-1&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nanak360&theme=nord&column=-1&no-frame=true&no-bg=true&margin-w=4) -->
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=NBandyopadhyay)](https://twitter.com/NBandyopadhyay)
